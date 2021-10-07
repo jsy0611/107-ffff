@@ -1,0 +1,2 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="qf~$i=Rpd@#D*H{X4|S8" x="0" y="0"><comment>확장
+&lt;tinkercademy&gt;습도!</comment><statement name="HANDLER"><block type="device_show_number" id="H~@IJNRASj+.92+jp!.."><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="octopus_moisture" id="tAa_X8BB_7(=g?UpLYI@"><field name="p">AnalogPin.P2</field></block></value></block></statement></block></xml>
